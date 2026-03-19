@@ -1,4 +1,4 @@
-# lpgneg's Homebrew Tap
+# Steve's Homebrew Tap
 
 A personal Homebrew tap for distributing and updating my macOS applications.
 
