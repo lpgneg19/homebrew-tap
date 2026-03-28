@@ -24,6 +24,9 @@ brew install --cask inkies
 
 # Install Essays
 brew install --cask essays
+
+# Install MacSSH
+brew install --cask macssh
 ```
 
 ## Software List
@@ -34,6 +37,7 @@ brew install --cask essays
 | **Maltex** | Aria2-based Downloader for macOS |
 | **Inkies** | An editor for ink via SwiftUI: inkle's narrative scripting language |
 | **Essays** | Native macOS client for the Memos |
+| **MacSSH** | A modern, high-performance SSH & SFTP client for macOS |
 
 ## Auto-Update
 
