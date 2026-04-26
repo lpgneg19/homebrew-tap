@@ -7,7 +7,7 @@ A personal Homebrew tap for distributing and updating my macOS applications.
 ### 1. Add this Tap
 
 ```bash
-brew tap lpgneg19/tap
+brew tap SteveShi/tap
 ```
 
 ### 2. Install Applications
