@@ -1,5 +1,5 @@
 cask "macssh" do
-  version "1.0.0"
+  version "1.1.0"
   sha256 :no_check
 
   url "https://github.com/SteveShi/MacSSH/releases/download/v#{version}/MacSSH-AppleSilicon.dmg"
